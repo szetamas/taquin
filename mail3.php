@@ -30,7 +30,7 @@ if(<?php echo $val;?>==1)
 }
 else
 {
-	alert("Verification FAILED");	//another way is the failed
+	alert("Verification FAILED");	//another way it is fail
 }
 
 window.location.href="mail.php";		//goto the first(mail.php) php
