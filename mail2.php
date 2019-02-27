@@ -18,7 +18,7 @@
 
 function send()
 {
-	//mail sending with code when the webshit was loaded or click the resend button
+	//mail sending with code when the website was loaded or click the resend button
 	<?php
 		mail($_POST["mail"],"Email verification","The code is:".$rando."\n If you don't do this, then don't do anything." );   //send to a mail (to the mail texinput mailaddress)
 	?>	
