@@ -1,4 +1,3 @@
 # readme
-These programs can try on this website:
+This program can try on this website:
 http://szeto008.uw.hu/taquin/taquin.php
-http://szeto008.uw.hu/mailverification/mail.php
